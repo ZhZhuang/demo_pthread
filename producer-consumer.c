@@ -1,5 +1,6 @@
 //条件变量解决生产者消费者问题
 // 有界缓冲区问题
+// 必须要会的问题！！！！！！
 
 #include<stdio.h>
 #include<stdlib.h>
